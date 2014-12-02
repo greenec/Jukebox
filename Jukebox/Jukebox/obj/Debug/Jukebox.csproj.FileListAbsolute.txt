@@ -1,0 +1,6 @@
+C:\Users\Connor\Documents\GitHub\Jukebox\Jukebox\Jukebox\bin\Debug\Jukebox.exe.config
+C:\Users\Connor\Documents\GitHub\Jukebox\Jukebox\Jukebox\bin\Debug\Jukebox.exe
+C:\Users\Connor\Documents\GitHub\Jukebox\Jukebox\Jukebox\bin\Debug\Jukebox.pdb
+C:\Users\Connor\Documents\GitHub\Jukebox\Jukebox\Jukebox\obj\Debug\Jukebox.csprojResolveAssemblyReference.cache
+C:\Users\Connor\Documents\GitHub\Jukebox\Jukebox\Jukebox\obj\Debug\Jukebox.exe
+C:\Users\Connor\Documents\GitHub\Jukebox\Jukebox\Jukebox\obj\Debug\Jukebox.pdb
